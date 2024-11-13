@@ -1,4 +1,4 @@
-# Parallel Image Mask Generator
+# Image Mask Generator
 
 This script reads JPG files from a directory, creates binary masks based on pixel intensity, and saves the masks as PNG files. It also logs the total count of pixels where the mask is max (all three channels are above 200).
 
